@@ -1,3 +1,3 @@
 # Parnyan
 
-C# for beginers :)
+C# for beginners :)
